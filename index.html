@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Fetch Users</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="container">
+    <header class="header">
+      <h1>Users</h1>
+      <button id="reloadBtn" class="btn" type="button">Reload</button>
+    </header>
+
+    <!-- status line for loading/errors/success -->
+    <div id="status" class="status" aria-live="polite"></div>
+
+    <!-- container for user cards -->
+    <ul id="users" class="list" aria-label="User list"></ul>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
