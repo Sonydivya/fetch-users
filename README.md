@@ -35,10 +35,14 @@ fetch-users/
 
 ---
 
-## 🌐 Live Demo (GitHub Pages)
 
-Once your repo is pushed and Pages is enabled (see steps below), your site will be available at:
-https://<Sonydivya>.github.io/<fetch-users>/
+
+## 🚀 Live Demo
+
+**Open the app:**  
+[https://sonydivya.github.io/fetch-users/](https://sonydivya.github.io/fetch-users/)
+
+
 
 ### Enable GitHub Pages
 
